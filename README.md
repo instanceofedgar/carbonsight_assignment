@@ -27,7 +27,7 @@ command to install required packages:
 
 2. **Run the Jupyter Notebook**:
     - Open `lighting_measure.ipynb` in Jupyter Notebook.
-    - Modify the `osm_folder_path` variable to point to the directory containing your `.osm` files.
+    - If needed, modify the `osm_folder_path` variable to point to the folder containing your `.osm` files.
     - Set the desired Lighting Power Density (`target_ldp`).
     - Run the cells to process the `.osm` files.
 
