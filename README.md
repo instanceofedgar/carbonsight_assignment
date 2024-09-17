@@ -16,7 +16,7 @@ This assignment consists of a measure that modifies the Lighting Power Density (
 ## Requirements
 
 command to install required packages:
-    ```bash
+    ```
     pip install openstudio
     ```
 
