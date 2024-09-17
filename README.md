@@ -10,7 +10,7 @@ This assignment consists of a measure that modifies the Lighting Power Density (
 
 - `lighting_measure.ipynb`: A Jupyter Notebook that uses the `modify_lpd_in_all_zones` function from the `openstudio_measures.py` script.
 - `openstudio_measures.py`: A Python script containing the function to modify the LPD values in `.osm` files.
-- `/osm_files/`: A folder containing `.osm` files to be processed.
+- `osm_files`: A folder containing `.osm` files to be processed.
 
 
 ## Requirements
