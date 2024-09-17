@@ -23,7 +23,7 @@ command to install required packages:
 
 ## Usage
 
-1. **Prepare your `.osm` files**: Place your `.osm` files in the `/osm_files/` directory. This directory should be at the same level as your script and notebook files.
+1. **Prepare your `.osm` files**: Place your `.osm` files in the /`osm_files` directory. This directory should be at the same level as your script and notebook files.
 
 2. **Run the Jupyter Notebook**:
     - Open `lighting_measure.ipynb` in Jupyter Notebook.
